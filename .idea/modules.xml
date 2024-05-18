@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/source/react/react.iml" filepath="$USER_HOME$/source/react/react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stevens-theme.iml" filepath="$PROJECT_DIR$/stevens-theme.iml" />
+    </modules>
+  </component>
+</project>
